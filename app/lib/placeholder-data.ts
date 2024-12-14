@@ -45,7 +45,7 @@ const customers = [
     name: 'Balazs Orban',
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
-  },
+  }
 ];
 
 const invoices = [
